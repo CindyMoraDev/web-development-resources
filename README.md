@@ -19,43 +19,43 @@
 
 
 ## Cheat Sheet
-| [Shopify Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet)        |   Shopify Cheat Sheet
+| [Shopify Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet)        |   Shopify Cheat Sheet <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
 ## Devices
-| [LambdaTest](https://www.lambdatest.com/)        | Live cross browser testing, Safari-mobile-etc
+| [LambdaTest](https://www.lambdatest.com/)        | Live cross browser testing, Safari-mobile-etc <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
 ## HTML
-| [Closing Tag Checker for HTML5](https://www.aliciaramirez.com/closing-tags-checker/)        | Tag checker HTML.
+| [Closing Tag Checker for HTML5](https://www.aliciaramirez.com/closing-tags-checker/)        | Tag checker HTML. <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
 ## Images
-| [Convertio](https://convertio.co/image-converter/)        | Convert Images, JPG-PNG-WEBP
-| [huggingface Image to Text](https://huggingface.co/tasks/image-to-text)        | Image captioning, alt text from images
-| [InstagramDownloads](https://instagramdownloads.com)        | Download Instagram images 
-| [TinyJPG](https://tinyjpg.com)        | Compress Images
-| [ShrinkMe](https://shrinkme.app/?s=e)        | Compress Images
+| [Convertio](https://convertio.co/image-converter/)        | Convert Images, JPG-PNG-WEBP <br>
+| [huggingface Image to Text](https://huggingface.co/tasks/image-to-text)        | Image captioning, alt text from images <br>
+| [InstagramDownloads](https://instagramdownloads.com)        | Download Instagram images  <br>
+| [TinyJPG](https://tinyjpg.com)        | Compress Images <br>
+| [ShrinkMe](https://shrinkme.app/?s=e)        | Compress Images <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
 ## Shopify
-| [Shopify Theme File Search by EZFY](https://chrome.google.com/webstore/detail/shopify-theme-file-search/mhchmhfecfdpaifljcfebnlaiaphfkmb)        | Find any text on Shopify themes files.
+| [Shopify Theme File Search by EZFY](https://chrome.google.com/webstore/detail/shopify-theme-file-search/mhchmhfecfdpaifljcfebnlaiaphfkmb)        | Find any text on Shopify themes files. 
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
 ## Text
-| [Anthiago](https://anthiago.com/transcript/)        | Transcript text from video
-| [ConvertCase](https://convertcase.net)        | Case converter 
-| [QuillBot](https://quillbot.com)        | Paraphraser-Grammar-Summarizer-Translator
+| [Anthiago](https://anthiago.com/transcript/)        | Transcript text from video <br>
+| [ConvertCase](https://convertcase.net)        | Case converter  <br>
+| [QuillBot](https://quillbot.com)        | Paraphraser-Grammar-Summarizer-Translator <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
 ## Video
-| [VideoSmaller](https://www.videosmaller.com)        | Compress Video
+| [VideoSmaller](https://www.videosmaller.com)        | Compress Video <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
