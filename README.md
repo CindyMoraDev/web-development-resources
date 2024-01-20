@@ -39,6 +39,7 @@
 | [InstagramDownloads](https://instagramdownloads.com)        | Download Instagram images  <br>
 | [TinyJPG](https://tinyjpg.com)        | Compress Images <br>
 | [ShrinkMe](https://shrinkme.app/?s=e)        | Compress Images <br>
+| [Online Converter](https://www.onlineconverter.com/compress-gif)       | Compress GIF <br>
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
