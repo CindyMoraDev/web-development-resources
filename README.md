@@ -43,6 +43,11 @@
 
 <p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
 
+## Security
+| [Internxt](https://internxt.com/virus-scanner)        | Virus Scanner. 
+
+<p align="right"><a href="#table-of-contents"><b>↥ Back to top</b></a></p>
+
 ## Shopify
 | [Shopify Theme File Search by EZFY](https://chrome.google.com/webstore/detail/shopify-theme-file-search/mhchmhfecfdpaifljcfebnlaiaphfkmb)        | Find any text on Shopify themes files. 
 
