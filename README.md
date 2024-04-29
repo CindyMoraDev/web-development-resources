@@ -15,7 +15,7 @@
 * [Images](#images)
 * [Shopify](#shopify)
 * [Text](#text)
-* [UI elements](#uielements)
+* [UI elements](#ui-elements)
 * [Video](#video)
 
 
